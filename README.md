@@ -30,8 +30,11 @@ Instead of a standard static text-to-type test, words dynamically fall from the 
 ## 🎥 Demo
 
 <div align="center">
-  <img src="asset/typingtestgame.gif" alt="Project Demo" width="80%">
-  <p><i>Gameplay Demo - Enjoy typing with a beautiful dynamic video background!</i></p>
+
+![Project Demo](./asset/typingtestgame.gif)
+
+*Gameplay Demo - Enjoy typing with a beautiful dynamic video background!*
+
 </div>
 ## 🚀 Getting Started
 
