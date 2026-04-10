@@ -31,7 +31,7 @@ Instead of a standard static text-to-type test, words dynamically fall from the 
 
 <div align="center">
 <p align="center">
-https://github.com/user-attachments/assets/84b9d7f1-754d-4a67-8b96-6f44a482af27</p>
+https://github.com/user-attachments/assets/147abbaf-831b-49bf-8e2a-b2452b7b5e10</p>
 
 *Gameplay Demo - Enjoy typing with a beautiful dynamic video background!*
 
