@@ -30,10 +30,9 @@ Instead of a standard static text-to-type test, words dynamically fall from the 
 ## 🎥 Demo
 
 <div align="center">
-<p align="center">
-https://github.com/user-attachments/assets/147abbaf-831b-49bf-8e2a-b2452b7b5e10</p>
+<p align="center"><video src = https://github.com/user-attachments/assets/147abbaf-831b-49bf-8e2a-b2452b7b5e10 </p>
 
-*Gameplay Demo - Enjoy typing with a beautiful dynamic video background!*
+*Gameplay Demo - https://typing-test-games.netlify.app/*
 
 </div>
 ## 🚀 Getting Started
