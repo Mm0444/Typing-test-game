@@ -89,6 +89,3 @@ Feel free to check the [issues page](https://github.com/your-username/Typing-tes
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-<div align="center">
-  <b>Built with ❤️</b>
-</div>
