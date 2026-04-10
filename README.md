@@ -35,6 +35,7 @@ Instead of a standard static text-to-type test, words dynamically fall from the 
 *Gameplay Demo - https://typing-test-games.netlify.app/*
 
 </div>
+
 ## 🚀 Getting Started
 
 To get a local copy up and running, follow these simple steps.
@@ -47,7 +48,7 @@ All you need is a modern web browser. (Google Chrome, Firefox, Safari, or Edge)
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Typing-test-game.git
+   git clone https://github.com/Mm0444/Typing-test-game.git
    ```
 2. **Navigate to the project directory**
    ```bash
@@ -79,10 +80,6 @@ All you need is a modern web browser. (Google Chrome, Firefox, Safari, or Edge)
 - [ ] Support difficulty selection (Easy, Medium, Hard).
 - [ ] Responsive design to better support mobile typing or virtual keyboards.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/your-username/Typing-test-game/issues). 
 
 ## 📄 License
 
